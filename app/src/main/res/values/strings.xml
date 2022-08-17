@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="main_title">Tour Guide - Giza</string>
+
+    <!-- places names -->
+    <string name="Pyramids_of_Giza">Pyramids of Giza</string>
+    <string name="Great_Sphinx">Great Sphinx </string>
+    <string name="Statue_of_Ramesses">Statue of Ramesses II</string>
+    <string name="valley_of_the_whales">Valley Of The Whales</string>
+
+
+    <!-- museums names -->
+    <string name="museede_labar_quesolaire">Museede Labar Quesolaire</string>
+    <string name="the_museum_of_egyptian_antiquities">The Museum Of Egyptian Antiquities</string>
+    <string name="the_egyptian_museum">The Egyptian Museum</string>
+    <string name="grand_egyptian">Grand Egyptian Museum</string>
+
+    <!-- hotels names -->
+    <string name="grand_pyramids_hotel">Grand Pyramids Hotel</string>
+    <string name="four_seasons_hotel">Four Seasons Hotel </string>
+    <string name="marriott_mena_house_hotel">Marriott Mena House Hotel</string>
+    <string name="pyramids_view_hotel">Pyramids View Hotel</string>
+
+    <!-- restaurant names -->
+    <string name="the_blue_restaurant">The Blue Restaurant</string>
+    <string name="lobby_lounge_restaurant">Lobby Lounge Restaurant </string>
+    <string name="beeja_restaurant">Beeja Restaurant</string>
+    <string name="saigon_bleu_restaurant">Saigon Bleu Restaurant</string>
+
+</resources>
